@@ -2,7 +2,7 @@
 
 //Switch
 
-var edad = 40;
+var edad = 28;
 var imprime = "";
 
 switch(edad){
